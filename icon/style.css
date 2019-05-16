@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'sell-icon';
+  src:  url('fonts/sell-icon.eot?ous6i6');
+  src:  url('fonts/sell-icon.eot?ous6i6#iefix') format('embedded-opentype'),
+    url('fonts/sell-icon.ttf?ous6i6') format('truetype'),
+    url('fonts/sell-icon.woff?ous6i6') format('woff'),
+    url('fonts/sell-icon.svg?ous6i6#sell-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'sell-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shouye3:before {
+  content: "\e655";
+}
+.icon-dingdan:before {
+  content: "\e630";
+}
+.icon-wode:before {
+  content: "\e66e";
+}
+.icon-faxian:before {
+  content: "\e64f";
+}
+.icon-gouwuche2:before {
+  content: "\e64e";
+}
+.icon-shouye2:before {
+  content: "\e628";
+}
+.icon-jiaoyi:before {
+  content: "\e67f";
+}
+.icon-tubiaozhizuomoban2:before {
+  content: "\e612";
+}
+.icon-shu2:before {
+  content: "\e68d";
+}
+.icon-anquan:before {
+  content: "\e61e";
+}
+.icon-airudiantubiaohuizhi-zhuanqu_yiwutong:before {
+  content: "\e69d";
+}
+.icon-fenlei2:before {
+  content: "\e76d";
+}
+.icon-sousuo1:before {
+  content: "\e6a9";
+}
+.icon-gouwuche1:before {
+  content: "\e64d";
+}
+.icon-shouye1:before {
+  content: "\e627";
+}
+.icon-tubiaozhizuomoban1:before {
+  content: "\e611";
+}
+.icon-shu1:before {
+  content: "\e68c";
+}
+.icon-fenlei1:before {
+  content: "\e76c";
+}
+.icon-sousuo:before {
+  content: "\e6a8";
+}
+.icon-gouwuche:before {
+  content: "\e64c";
+}
+.icon-shouye:before {
+  content: "\e626";
+}
+.icon-tubiaozhizuomoban:before {
+  content: "\e610";
+}
+.icon-shu:before {
+  content: "\e68b";
+}
+.icon-fenlei:before {
+  content: "\e76b";
+}
