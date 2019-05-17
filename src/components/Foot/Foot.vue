@@ -42,7 +42,6 @@
     background-color #fff
     width 100%
     display flex
-    height 80px
 
     .guide_item
       display flex
@@ -52,7 +51,7 @@
       margin 5px
       color #999999
       &.on
-        color red
+        color blue
       span
         font-size 11px
         margin-top 2px
